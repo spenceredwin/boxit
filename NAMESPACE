@@ -2,6 +2,8 @@
 
 export(cancelbox)
 export(confirmbox)
+export(dialogbox)
+export(passbox)
 export(promptbox)
 export(questionbox)
 export(softstop)
